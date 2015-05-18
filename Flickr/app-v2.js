@@ -24,6 +24,6 @@ $("button").on("click", evntHandler);
 
 $("input").on("keypress", function (event) {
     if (event.keyCode === 13) {
-        $(document).ready(main);
+        evntHandler()
     }
 });
