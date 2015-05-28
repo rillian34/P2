@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+img{
+	border-style: solid;
+	border-style: double;
+	border-width: 10px;
+}
+h2{
+	font-style: bold;
+	font-size: 125%;
+}
